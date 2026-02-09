@@ -67,3 +67,4 @@ if __name__ == '__main__':
 
     print("Path from initial state to solution state ::")
     Solution(Jug1, Jug2, target)
+
